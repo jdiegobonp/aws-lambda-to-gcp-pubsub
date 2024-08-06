@@ -1,4 +1,4 @@
-# lambda-to-gcp-pubsub
+# aws-lambda-to-gcp-pubsub
 AWS Lambda Function to publish a message to a GCP pubsub.
 
 ## Installation steps
